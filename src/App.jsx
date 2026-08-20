@@ -5,7 +5,7 @@ import CartPage from './pages/CartPage'
 
 const App = () => {
   return (
-    <div className='bg-(--c1) w-full px-7 py-5'>
+    <div className='bg-(--c1) min-h-screen w-full px-7 py-5'>
       <Routes>
         <Route path='/' element={<HomePage />}/>
         <Route path="/search/:query" element={<SearchPage />} />
