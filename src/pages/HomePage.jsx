@@ -4,10 +4,12 @@ import Footer from "../components/Footer"
 
 const HomePage = () => {
   return (
-    <div>
+    <div className="flex flex-col min-h-screen">
       <Navbar />
       <MiddleSection />
-      <Footer />
+      <div className="mt-auto">
+        <Footer />
+      </div>
     </div>
   )
 }
