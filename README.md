@@ -8,7 +8,7 @@ React Router, and basic cart state management.
 
 ## 🚀 Live Demo
 
-👉 [View Shop Hub Live](https://YOUR-USERNAME.github.io/Shop-Hub/)
+👉 [View Shop Hub Live](https://suryastack.github.io/Shop-Hub/)
 
 ## ✨ Features
 

@@ -12,7 +12,7 @@ import "react-toastify/dist/ReactToastify.css";
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/Shop-Hub">
         <App />
         <ToastContainer />
       </BrowserRouter>
