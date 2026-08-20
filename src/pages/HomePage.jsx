@@ -7,7 +7,7 @@ const HomePage = () => {
     <div className="flex flex-col min-h-screen">
       <Navbar />
       <MiddleSection />
-      <div className="mt-auto">
+      <div>
         <Footer />
       </div>
     </div>
