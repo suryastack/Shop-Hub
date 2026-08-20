@@ -74,6 +74,7 @@ Shop-Hub/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+```
 
 ## 🧠 Redux Concepts Used
 
