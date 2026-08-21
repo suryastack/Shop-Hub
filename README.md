@@ -50,6 +50,7 @@ Shop-Hub/
 │   │   ├── CartItem.jsx
 │   │   ├── CartSummery.jsx
 │   │   ├── EmptyCart.jsx
+|   |   ├── FeaturedProducts.jsx
 │   │   ├── Footer.jsx
 |   |   ├── MiddleSection.jsx
 │   │   └── Navbar.jsx
