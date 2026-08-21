@@ -7,7 +7,7 @@ const Navbar = () => {
   const navigate = useNavigate();
   return (
     <div className="flex flex-wrap items-center justify-between gap-y-4">
-      <div className="flex gap-2 shrink-0">
+      <div className="flex gap-2 shrink-0 items-center">
         <i className="ri-shopping-bag-4-fill text-(--c2) text-3xl"></i>
         <h1 className="text-white font-semibold text-2xl">ShopHub</h1>
       </div>
